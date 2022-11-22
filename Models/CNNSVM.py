@@ -1,5 +1,4 @@
 import tensorflow as tf
-from rbf_layer import RBFLayer
 
 
 class CNNSVM(tf.keras.Model):
