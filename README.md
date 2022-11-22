@@ -4,3 +4,7 @@ Our problem domain is to classify one of the seven human expressions (anger, dis
 
 ## Dataset
 https://www.kaggle.com/datasets/msambare/fer2013?select=train
+
+## Results 
+
+![Loss_Plot](https://user-images.githubusercontent.com/30756824/203409961-a76ef833-0089-4f56-acbe-932da536d35c.jpg) ![Accuracy_Plot](https://user-images.githubusercontent.com/30756824/203410040-813d8b7a-31a6-4da5-a850-5eb9cac06a29.jpg)
